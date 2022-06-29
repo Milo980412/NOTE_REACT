@@ -10,7 +10,7 @@
 
 - Github：[https://github.com/Milo980412/NOTE_REACT](https://github.com/Milo980412/NOTE_REACT)
 - 语雀：[https://www.yuque.com/u26476221/il2ap7](https://www.yuque.com/u26476221/il2ap7)
-- Milo前端日记：[React入门学习](https://miloreact.github.io/pages/react/01_%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E4%BB%A5%E5%8F%8Ajsx%E8%AF%AD%E6%B3%95.html)
+- Milo前端日记：[React入门学习](https://miloreact.github.io/pages/react/start.html)
 
 ## 目录
 
